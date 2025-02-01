@@ -1,0 +1,11 @@
+# Configuration for Speech Emotion Recognition
+sr: 22050                # Sample rate for audio processing
+n_mfcc: 13               # Number of MFCC features to extract
+dataset_path: "D:/ALL CODES/SPEECH_EMOTION/data/RAVDESS/" # Path to the dataset folder
+output_file: "D:/ALL CODES/SPEECH_EMOTION/data/features.csv" # Path to save processed features
+features:                # List of features to extract
+  - mfcc
+  - chroma
+  - mel
+  - contrast
+  - zcr
