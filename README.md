@@ -63,7 +63,7 @@ USAGE
     python scripts/preprocess.py
     ```
 
-- Train the Model
+- Train the Model...
     
     Train the CNN model:
 
