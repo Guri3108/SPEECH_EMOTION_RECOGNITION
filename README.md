@@ -28,7 +28,7 @@ This project focuses on Speech Emotion Recognition (SER), a system that identifi
 
 ## INSTALLATION
 
-Prerequisites
+PrerequisitesS
 
 - Python 3.8 or higher
 
