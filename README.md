@@ -8,7 +8,7 @@
 
 ![Librosa](https://img.shields.io/badge/Librosa-0.9-yellow)
 
-This project focuses on Speech Emotion Recognition (SER), a system that identifies human emotions from speech signals. The system uses a Convolutional Neural Network (CNN) trained on the RAVDESS dataset to classify emotions such as happy, sad, angry, calm, etc.
+This project focuses on Speech Emotion Recognition (SER), a system that identifies human emotions from speech signals. The system uses a Convolutional Neural Network (CNN) trained on the RAVDESS dataset to classify emotions such as happy,sad,angry,calm,etc.
 
 
 
